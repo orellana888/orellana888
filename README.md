@@ -1,5 +1,8 @@
 # 💫 About Me:
-💻Estudiando Actualmente
+Actualmente estoy trabajando en mis propios proyectos ✍
+Estoy buscando colaborar con otros desarrolladores 🤝
+Actualmente estoy aprendiendo desarrollo web (FRONTEND)💻
+Busco trabajo en equipo 👨‍💻👨‍💻
 
 
 # 💻 Tech Stack:
